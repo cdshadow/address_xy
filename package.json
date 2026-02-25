@@ -2,10 +2,6 @@
   "name": "address_xy",
   "private": true,
   "scripts": {
-    "local": "python local_server.py",
-    "local:vercel": "vercel dev"
-  },
-  "devDependencies": {
-    "vercel": "^39.0.0"
+    "local": "python local_server.py"
   }
 }
